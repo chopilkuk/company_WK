@@ -1231,11 +1231,12 @@ section {
 }
 
 .portfolio-details .portfolio-description {
+  text-align: center;
   padding-top: 50px;
 }
 
 .portfolio-details .portfolio-description h2 {
-  width: 50%;
+
   font-size: 26px;
   font-weight: 700;
   margin-bottom: 20px;
